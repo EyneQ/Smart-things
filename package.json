@@ -1,0 +1,11 @@
+{
+  "name": "smart-things",
+  "version": "0.0.1",
+  "description": "a hub for all things smart",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Xavier Slatter",
+  "license": "MIT"
+}
